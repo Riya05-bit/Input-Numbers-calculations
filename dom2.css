@@ -1,0 +1,41 @@
+body{
+background-color: rgb(113, 214, 214);
+}
+input {
+    padding: 0 2vw;
+    height: 2vw;
+    width: 16vw;
+    font-size: 2vw;
+}
+.btn{
+    width: 5vw;
+    position:absolute;
+    top: 10vw;
+    left: 25vw;
+    display: flex;
+    
+}
+button{
+    padding: 0 3vw;
+    font-size: 2vw;
+    border-radius: 2vw;
+    cursor: pointer;
+}
+#res{
+    position:absolute;
+    width: 25vw;
+    height: 2vw;
+    border:0.2px solid;
+    top: 0.5vw;
+    right: 25.5vw;
+    background: #fff;
+    font-size: 2vw;
+    padding: 0 2vw;
+}
+.equal{
+    position: absolute;
+    font-size: 4vw;
+    top: -1vw;
+    right:56vw;
+
+}
